@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.couple1{
+   width: 500px;
+   height: 500px;
+   object-fit: contain;
+}
